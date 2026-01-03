@@ -1,8 +1,8 @@
-import image from "../assets/images/img3.jpg";
+import image from "../assets/images/img3.JPG";
 
 export default function RightContent() {
   return (
-    <div class="w-1/2 rounded-2xl">
+    <div className="w-1/2 rounded-2xl">
       <img src={image} alt="Right content image" />
     </div>
   );
