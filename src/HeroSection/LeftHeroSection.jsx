@@ -10,7 +10,7 @@ export default function LeftHeroSection() {
         <button className="w-3/5 bg-white text-black px-8 py-4 rounded-lg text-lg font-semibold">
           Prime Video Member? Sign in
         </button>
-        <div className="flex flex-row items-center gap-2 w-1/2">
+        <div className="flex flex-row items-center gap-2 w-3/5">
           <hr className="w-full" />
           <p>or</p>
           <hr className="w-full" />
