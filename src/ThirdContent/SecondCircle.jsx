@@ -1,4 +1,4 @@
-import image from "../assets/images/im2.png";
+import image from "../assets/images/picture2.png";
 
 export default function SecondCircle() {
   return (

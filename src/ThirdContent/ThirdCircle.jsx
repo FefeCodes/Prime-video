@@ -1,4 +1,4 @@
-import image from "../assets/images/im3.png";
+import image from "../assets/images/picture3.png";
 
 export default function ThirdCircle() {
   return (

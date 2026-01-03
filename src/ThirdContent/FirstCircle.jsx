@@ -1,4 +1,4 @@
-import image from "../assets/images/im1.png";
+import image from "../assets/images/picture1.png";
 
 export default function FirstCircle() {
   return (
