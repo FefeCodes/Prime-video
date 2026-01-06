@@ -3,7 +3,7 @@ import RightContent from "./RightContent";
 
 export default function SecondContent() {
   return (
-    <div class="flex flex-row justify-between items-center px-4 py-2">
+    <div className="flex flex-col md:flex-row justify-between items-center py-8 md:py-12 gap-8 md:gap-0">
       <LeftContent />
       <RightContent />
     </div>
