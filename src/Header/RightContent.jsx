@@ -22,7 +22,7 @@ export default function RightContent() {
       </div>
       <FaGripHorizontal className="text-xl md:text-2xl cursor-pointer hidden md:flex" />
       <FaUserCircle className="text-3xl md:text-2xl text-blue-300 cursor-pointer" />
-      <button className="bg-blue-600 text-white px-3 py-1.5 md:px-4 md:py-2 rounded-md cursor-pointer text-sm md:text-lg font-medium hover:bg-blue-700 transition hidden md:flex">
+      <button className="bg-blue-600 text-white px-3 py-1.5 md:px-4 md:py-2 rounded-md cursor-pointer text-sm md:text-base font-medium hover:bg-blue-700 transition hidden md:flex">
         Join Prime
       </button>
     </div>
