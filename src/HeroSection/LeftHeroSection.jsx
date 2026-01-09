@@ -1,6 +1,6 @@
 export default function LeftHeroSection() {
   return (
-    <div className="w-full md:w-1/2 flex flex-col gap-6 md:pl-8 text-start md:text-left px-4 md:px-14">
+    <div className="w-full md:w-3/5 flex flex-col gap-6 md:pl-8 text-start md:text-left px-4 md:px-14">
       <h1 className="text-3xl md:text-4xl font-bold leading-tight">
         Welcome to Prime Video
       </h1>
